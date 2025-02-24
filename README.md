@@ -1,6 +1,6 @@
 # SimulatingHospitalWaitTimes
 
-This project employed Simio to simulate hospital wait times as patients moved through treatment wards and rehabilitation before discharge. The simulation helped identify system bottlenecks that were subsequently adjusted to minimize delays. Although this assignment was completed for a class and will not be posted publicly, it provided an excellent opportunity to familiarize myself with Simio.
+This project employed Simio to simulate hospital wait times as patients moved through treatment wards and rehabilitation before discharge. The simulation helped identify system bottlenecks that were subsequently adjusted to minimize delays. This proved to be an excellent opportunity to familiarize myself with Simio.
 
 Using provided data, Python was used to fit distributions to patient arrival times as well as treatment and rehabilitation durations, which then served as inputs for our Simio model. I was fortunate to lead the development of the model, deepening my understanding of simulation techniques and system optimization.
 
